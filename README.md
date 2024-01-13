@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to My GitHub Profile cuh
 
-<!--
-**TheImperiestro/TheImperiestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+I'm passionate about programming and technology, with expertise in various languages and domains.
 
-Here are some ideas to get you started:
+## Skills
+- C
+- C++
+- Assembly
+- Rust
+- Java
+- Julia
+- JavaScript
+- React
+- PHP
+- Python
+- UIUA
+- BQN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Isogeny Based Cryptography
+- Lattice Based Cryptography
+- Acoustic Cryptanalysis with Neural Networks
