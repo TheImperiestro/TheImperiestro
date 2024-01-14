@@ -4,8 +4,7 @@
 I'm passionate about programming and technology, with expertise in various languages and domains.
 
 ## About Me
-- I am 16 years old.
-- I am attending [Nottingham Highscool](https://www.htsdnj.org/HamiltonNorth.cfm), and am graduating a year early this spring.
+- I am 17 years old
 
 ## Skills
 - C
